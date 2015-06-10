@@ -1,6 +1,6 @@
-50/ 100
+60/ 100
 Last update Fri May 29 23:57:49 2015 -0700
-  -25: memory leak found in valgrind
+  -20: memory leak found in valgrind
 ==37358== 16 bytes in 1 blocks are definitely lost in loss record 2 of 5 ==37358== definitely lost: 16 bytes in 1 blocks
 
 cd PATH: /20
